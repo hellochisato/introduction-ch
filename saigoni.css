@@ -1,0 +1,46 @@
+.header{
+    background-color:#58ACFA;
+    height:120px;
+    font-family:"sans serif";
+  }
+  
+  .header-logo{
+    font-size:40px;
+    padding:25px 40px;
+    float:left;
+    color:white;
+  }
+  
+  .header-list li{
+    font-size:25px;
+    float:left;
+    padding:40px 20px;
+    list-style:none;
+    color:white;  
+  }
+
+  main{
+      height:1000px;
+  }
+
+  .footer{
+    background-color:#2f5167;
+    height:120px;
+    font-family:"sans serif";
+    margin-top:150px;
+  }
+  
+  .footer-logo{
+    font-size:40px;
+    padding:30px;
+    float:left;
+    color:white;
+  }
+  
+  .footer-list li{
+    font-size:25px;
+    float:left;
+    padding:40px 20px;
+    list-style:none;
+    color:white;
+  }
