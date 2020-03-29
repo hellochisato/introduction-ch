@@ -24,8 +24,10 @@
 
  .main-title{
     font-size:70px;
-    padding:20px 100px;
+    padding-top:20px;
     font-family:"sans serif";
+    padding-right:100px;
+    padding-left:100px;
   }
 
   a { 
