@@ -59,14 +59,14 @@
  }
 
   img{
-    width:650PX;
+    width:60%;
     height:auto;
     margin-left:20%;
     margin-right:20%;
   }
 
   video{
-    width:650PX;
+    width:60%;
     height:auto;
     margin-left:20%;
     margin-right:20%;
@@ -80,7 +80,7 @@
  }
 
  .descri{
-    width:650PX;
+    width:60%;
     margin-left:20%;
     margin-right:20%;
  }
