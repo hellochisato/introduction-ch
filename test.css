@@ -43,7 +43,9 @@ a {
 
 .media {
   background: #FFF;
-  padding: 20px 70px;
+  padding-TOP: 20px;
+  padding-left:10%;
+  padding-right:10%;
   overflow: hidden;
   float: left;
 }
