@@ -1,24 +1,24 @@
 .header{
-    background-color:#58ACFA;
-    height:120px;
-    font-family:"sans serif";
-  }
+  background-color:#58ACFA;
+  height:120px;
+  font-family:"sans serif";
+}
+
+.header-logo{
+  font-size:40px;
+  padding:25px 40px;
+  float:left;
+  color:white;
   
-  .header-logo{
-    font-size:40px;
-    padding:25px 40px;
-    float:left;
-    color:white;
-    
-  }
-  
-  .header-list li{
-    font-size:25px;
-    float:left;
-    padding:40px 20px;
-    list-style:none;
-    color:white;  
-  }
+}
+
+.header-list li{
+  font-size:25px;
+  float:left;
+  padding:40px 20px;
+  list-style:none;
+  color:white;  
+}
   
 
  .main-title{
