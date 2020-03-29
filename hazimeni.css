@@ -47,8 +47,10 @@ h3{
   margin:80px 30px 30px ;
 }
 
-
-
+a { 
+  color:black; 
+  text-decoration:underline;
+}
 
 
   .clearfix::after {
