@@ -23,6 +23,12 @@
       height:1000px;
   }
 
+
+a { 
+  color:black; 
+  text-decoration:underline;
+}
+
   .footer{
     background-color:#2f5167;
     height:120px;
