@@ -29,9 +29,10 @@
   }
 
 .hazimeni{
-    padding-left: 100px;
-    padding-right: 100px;
     font-size:20px;
+    width:80%;
+    margin-left:10%;
+    margin-right:10%;
 }
 
 img{
